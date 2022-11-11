@@ -4,6 +4,8 @@ A program written in Java to detect if 2 given words are an anagram of each othe
 This program uses an anagram Class to compare and validate to user word inputs along with a username. 
 It then caches the inputs in an array list and stores correct inputs to text file.
 
+(NEWBIE!!)
+
 ************************************************************************************
 KNOWN ISSUES:
 
@@ -17,6 +19,6 @@ I feel i was succesful in the basic implementation of the program however, there
 
 **** Any feedback on features that I couldn't execute correctly would be greatly appreciated. Also, feedback on any areas of my code that are working but could be improved would be awesome.
 
-Would benifit greatly from any suggestions to work on between now and September.
+Would benifit greatly from any suggestions anyone has to improve this program.
 
-Thanks for the oppertunity!!
+
